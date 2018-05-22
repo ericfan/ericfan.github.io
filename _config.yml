@@ -75,7 +75,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: ericfan/ericfan.github.io
 
 # ---------------- #
 #      Comments    #
