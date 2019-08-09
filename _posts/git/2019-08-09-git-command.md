@@ -5,11 +5,6 @@ categories: Git
 description: Useful command when using git
 keywords: git
 ---
-
-**目录**
-
-* [DateTime]
-
 ## Create a new branch same as another repository
 ```
 git remote add fork <url of fork>
