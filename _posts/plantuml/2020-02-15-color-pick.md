@@ -6,4 +6,4 @@ description:
 keywords: plantuml common
 ---
 
-<img src="plantuml-colors.png" width="1240" height="519">
+![](/_posts/plantuml/plantuml-colors.png)
