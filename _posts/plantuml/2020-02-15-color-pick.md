@@ -6,4 +6,4 @@ description:
 keywords: plantuml common
 ---
 
-![](/_posts/plantuml/plantuml-colors.png)
+![](plantuml-colors.png)
