@@ -1,10 +1,10 @@
 ---
 layout: categories
 title: Categories
-description: 简单分一下类喽
-keywords: 分类
+description: 
+keywords: category
 comments: false
-menu: 分类
+menu: Category
 permalink: /categories/
 ---
 
